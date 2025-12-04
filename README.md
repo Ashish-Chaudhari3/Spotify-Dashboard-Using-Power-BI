@@ -39,8 +39,6 @@ The Power BI dashboard helps users analyze popularity trends, top artists/songs,
 
 ---
 
----
-
 ## 📸 Dashboard Preview
 
 ### **Page 1 – Overview**
