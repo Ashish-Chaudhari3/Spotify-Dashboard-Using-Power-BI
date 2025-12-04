@@ -44,13 +44,13 @@ The Power BI dashboard helps users analyze popularity trends, top artists/songs,
 ## 📸 Dashboard Preview
 
 ### **Page 1 – Overview**
-![Uploading Screenshot 2025-12-04 200955.png…]()
+<img width="1513" height="849" alt="Screenshot 2025-12-04 200955" src="https://github.com/user-attachments/assets/a3ac4825-1bc2-445d-bbb1-441f2b6c0457" />
 
 ### **Page 2 – Artists Insight**
-![Uploading Screenshot 2025-12-04 201050.png…]()
+<img width="1517" height="842" alt="Screenshot 2025-12-04 201050" src="https://github.com/user-attachments/assets/2bd63766-4117-4431-bc37-d8cb6c843818" />
 
 ### **Page 3 – Songs Insight**
-![Uploading Screenshot 2025-12-04 201116.png…]()
+<img width="1520" height="845" alt="Screenshot 2025-12-04 201116" src="https://github.com/user-attachments/assets/c17ef6b6-5c14-4b10-bc63-4ac6fd62a827" />
 
 ---
 
